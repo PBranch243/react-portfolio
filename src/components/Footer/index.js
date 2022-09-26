@@ -1,9 +1,15 @@
 import React from "react";
+import image from "../../assets/BackgroundImage.jpg"
 
+const styles = {
+    foot: {
+      backgroundImage: `url(${image})`
+    }
+  }
 function Footer(){
 
     return(
-        <footer>This is the footer for now.</footer>
+        <footer style={styles.foot}>This is the footer for now.</footer>
     );
 }
 
