@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e22063e2.css",
+    "main.js": "/react-portfolio/static/js/main.c568d0ac.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/screencapture-file-Users-carlypritchard-Documents-trivia-trainer-index-html-2022-06-22-16_30_45.png": "/react-portfolio/static/media/screencapture-file-Users-carlypritchard-Documents-trivia-trainer-index-html-2022-06-22-16_30_45.afcb60d53e3e266fc3d9.png",
+    "static/media/BackgroundImage.jpg": "/react-portfolio/static/media/BackgroundImage.3935d1d2b989c329e721.jpg",
+    "static/media/Endless Pawsibilities.png": "/react-portfolio/static/media/Endless Pawsibilities.4a6b8ff80354e4d88ccf.png",
+    "static/media/phil-small.jpg": "/react-portfolio/static/media/phil-small.6a3464e40b92f5dd4e7e.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.e22063e2.css.map": "/react-portfolio/static/css/main.e22063e2.css.map",
+    "main.c568d0ac.js.map": "/react-portfolio/static/js/main.c568d0ac.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22063e2.css",
+    "static/js/main.c568d0ac.js"
+  ]
+}
