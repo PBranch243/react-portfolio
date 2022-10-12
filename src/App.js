@@ -1,7 +1,8 @@
 import React from 'react';
 // import Nav from './components/Nav' 
 import About from './components/About'
-import Project from './components/Project'
+import Project1 from './components/Project1'
+import Project2 from './components/Project2'
 import Header from './components/Header'
 import Footer from './components/Footer'
 
@@ -21,7 +22,8 @@ function App() {
       <Header></Header>
       <main>
         <About></About>
-        <Project></Project>
+        <Project1></Project1>
+        <Project2></Project2>
       </main>
       <Footer></Footer>
     </div>
