@@ -1,6 +1,7 @@
 import React from "react";
 import Nav from "../Nav";
 import image from "../../assets/BackgroundImage.jpg"
+import philsml from "../../assets/phil-small.jpg"
 
 const styles = {
   head: {
@@ -10,18 +11,18 @@ const styles = {
 
 function Header() {
 
-    return(
-        <header className="flex-row px-1" style={styles.head}>
-        <h2>
-          <a data-testid="link" href="/">
-            {/* remove/update next line */}
-            <span role="img" aria-label="camera"> 📸</span> Oh Snap!
-          </a>
-        </h2>
+  return (
+    <header className="flex-row px-1" style={styles.head}>
+      <h2>
+        <img src={philsml} alt="Avatar" className="avatar"/>
+        <a data-testid="link" href="/">
+          Web Developer -- Phil Branch
+        </a>
+      </h2>
 
-        <Nav></Nav>
-        </header>
-    );
+      <Nav></Nav>
+    </header>
+  );
 }
 
 export default Header;
