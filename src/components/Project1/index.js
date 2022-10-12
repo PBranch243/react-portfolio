@@ -15,7 +15,7 @@ function Project1() {
         link: "https://cjpritch.github.io/trivia-trainer/"
     }
     return(
-        <section>
+        <section id="projects">
             <h1 style={styles.p}>{project.name}</h1>
             <p style={styles.p}>{project.description}</p>
             <a href={project.link}>

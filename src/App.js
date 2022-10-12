@@ -21,9 +21,9 @@ function App() {
     <div className={"primary"} style={styles.body}>
       <Header></Header>
       <main>
-        <About></About>
         <Project1></Project1>
         <Project2></Project2>
+        <About></About>
       </main>
       <Footer></Footer>
     </div>
