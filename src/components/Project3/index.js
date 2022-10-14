@@ -1,6 +1,6 @@
 import React from "react";
 
-import screenshot from "../../assets/<imgfile>"
+// import screenshot from "../../assets/<imgfile>"
 
 const styles = {
     p: {
@@ -19,9 +19,9 @@ function Project3() {
             <h1 style={styles.p}>{project.name}</h1>
             <p style={styles.p}>{project.description}</p>
             <a href={project.link}>
-            <img
+            {/* <img
             src={screenshot} alt="screenshot"
-            width="604" height="324"/>
+            width="604" height="324"/> */}
             </a>
         </section>
     );
