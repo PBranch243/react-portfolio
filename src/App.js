@@ -3,6 +3,7 @@ import React from 'react';
 import About from './components/About'
 import Project1 from './components/Project1'
 import Project2 from './components/Project2'
+import Project3 from './components/Project3'
 import Header from './components/Header'
 import Footer from './components/Footer'
 
@@ -23,6 +24,7 @@ function App() {
       <main>
         <Project1></Project1>
         <Project2></Project2>
+        <Project3></Project3>
         <About></About>
       </main>
       <Footer></Footer>

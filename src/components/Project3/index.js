@@ -10,9 +10,9 @@ const styles = {
 
 function Project3() {
     const project = {
-        name: "",
-        description: "",
-        link: ""
+        name: "Github-Lite",
+        description: "Github-Lite was created as the final group project in my bootcamp.",
+        link: "https://github-lite-1.herokuapp.com/"
     }
     return(
         <section>
